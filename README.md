@@ -7,7 +7,7 @@ Envie a conversa exportada e receba um relatório completo, bonito e sem enviar 
 
 <br>
 
-[![Ver demo](https://img.shields.io/badge/▶_VER_DEMO-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://SEU-USUARIO.github.io/whatsapp-stats/)
+[![Ver demo](https://img.shields.io/badge/▶_VER_DEMO-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]([https://SEU-USUARIO.github.io/whatsapp-stats/](https://phbr13.github.io/whatsapp-group-stats/))
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
